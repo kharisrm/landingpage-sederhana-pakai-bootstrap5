@@ -8,10 +8,14 @@ Navbar modern
 Hero section menarik
 Desain clean dan sederhana
 Mudah dikustomisasi
+
+
 🛠️ Teknologi
 HTML5
 CSS3
 Bootstrap 5
+
+
 🚀 Cara Menjalankan
 Download atau clone repository ini
 Buka file index.html
