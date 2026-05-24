@@ -1,25 +1,31 @@
-# landingpage-sederhana-pakai-bootstrap5
-Landing page sederhana dan responsive menggunakan Bootstrap 5. Cocok untuk belajar front-end, tugas sekolah, atau template website modern. Memiliki desain clean, navbar modern, hero section menarik, serta mudah dikustomisasi dan dijalankan di berbagai perangkat.
+```markdown
+# Landing Page Sederhana Bootstrap 5
 
-✨ Fitur
-Responsive di semua perangkat
-Menggunakan Bootstrap 5
-Navbar modern
-Hero section menarik
-Desain clean dan sederhana
-Mudah dikustomisasi
+Landing page sederhana dan responsive yang dibuat menggunakan Bootstrap 5.  
+Project ini cocok untuk latihan front-end, tugas sekolah/kuliah, maupun sebagai template dasar website modern.
 
+## ✨ Fitur
 
-🛠️ Teknologi
-HTML5
-CSS3
-Bootstrap 5
+- Responsive di semua perangkat
+- Menggunakan Bootstrap 5
+- Navbar modern
+- Hero section menarik
+- Desain clean dan sederhana
+- Mudah dikustomisasi
 
+## 🛠️ Teknologi
 
-🚀 Cara Menjalankan
-Download atau clone repository ini
-Buka file index.html
-Jalankan di browser
-📌 Tujuan Project
+- HTML5
+- CSS3
+- Bootstrap 5
+
+## 🚀 Cara Menjalankan
+
+1. Download atau clone repository ini
+2. Buka file `index.html`
+3. Jalankan di browser
+
+## 📌 Tujuan Project
 
 Project ini dibuat untuk belajar membuat tampilan landing page modern menggunakan framework Bootstrap 5 dengan struktur yang mudah dipahami pemula.
+```
